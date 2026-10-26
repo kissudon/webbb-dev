@@ -1,0 +1,35 @@
+.box1 {
+    width: 400px;
+    height: 400px;
+
+    background-color: #65a5a5;
+
+    border: 10px solid black;
+    padding: 20px;
+
+    margin: 0;
+}
+
+.box2 {
+    width: 350px;
+    height: 350px;
+
+    background-color: #ffd600;
+
+    border: 10px solid black;
+
+    margin-left: 460px;
+    margin-top: 0px;
+}
+
+.box3 {
+    width: 350px;
+    height: 350px;
+
+    background-color: #cc5b5b;
+
+    border: 10px solid black;
+
+    margin-left: 70px;
+    margin-top: 0px;
+}
